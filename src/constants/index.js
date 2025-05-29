@@ -51,29 +51,33 @@
   },
   "mainBlock": {
     "title": "Anas Abdul Rahim: Compassionate Pain Management Expert",
-    "text": "Welcome to the professional home of Anas Abdul Rahim, a dedicated pain management specialist with a profound commitment to enhancing patient care. Born to Syrian immigrants in Atlanta, GA, Anas's journey is marked by resilience, community service, and a passion for medicine. With a background in Food Science and Human Nutrition from the University of Florida, Anas's career path was profoundly shaped by a medical mission trip to Syria, where he witnessed the critical role of anesthesiology in patient care. Now based in Miami, Anas serves as a clinic attending for a pain management fellowship program, where he applies his expertise to improve patient outcomes. His dedication to service extends beyond his professional life, as he actively engages in community initiatives and cherishes time with his growing family. Explore how Anas Abdul Rahim's unique blend of skills and experiences can benefit your healthcare needs."
+    "text": "Welcome to the professional home of Anas Abdul Rahim, a dedicated pain management specialist with a profound commitment to patient care and community service. Born to Syrian immigrants in Atlanta, GA, Anas's journey is one of resilience and dedication. With a background in Food Science and Human Nutrition from the University of Florida, Anas's passion for helping others led him to pursue a career in anesthesiology. His pivotal experience during a medical mission in Syria inspired him to specialize in pain management, where he now excels as a clinic attending in Miami. Anas's approach is rooted in empathy, informed by his own experiences with pain and recovery. He is committed to advancing pain management practices and improving patient outcomes through innovative techniques and compassionate care."
   },
   "keysBlock": {
     "title": "Core Expertise",
     "items": [
-      "Pain management and patient care excellence",
-      "Anesthesiology with a focus on safety and comfort",
-      "Community service and healthcare advocacy",
-      "Leadership in medical education and training"
+      "Comprehensive pain management strategies for diverse conditions",
+      "Expertise in anesthesiology and patient safety",
+      "Community-focused healthcare initiatives and leadership",
+      "Commitment to continuous medical education and research"
     ],
-    "footer": "Discover more about Anas Abdul Rahim's impactful work and contributions."
+    "footer": "Explore Anas's journey and discover how his expertise can benefit you."
   }
 };
+
+      export const GENERAL = {
+        name: 'Dr. Jonathan Thomson  ',
+      };
 
     export const ABOUT_PAGE_CONTENT = {
   "title": "Anas Abdul Rahim: Anesthesiologist & Pain Management Expert",
   "seoBlock": {
-    "title": "Anas Abdul Rahim - Anesthesiologist",
+    "title": "Anas Abdul Rahim - Pain Management Specialist",
     "description": "Discover Anas Abdul Rahim's journey in anesthesiology and pain management."
   },
   "mainBlock": {
     "title": "More About Anas Abdul Rahim",
-    "text": "Anas Abdul Rahim, a dedicated anesthesiologist and pain management specialist, was born to Syrian immigrants in Atlanta, GA, and raised in Panama City, FL. His upbringing by the beach fostered a love for the ocean and the outdoors, which he balanced with a strong commitment to community service and family values. Anas's academic journey began with dual enrollment at Gulf Coast State College, where he actively participated in student government and community initiatives. He pursued a degree in Food Science and Human Nutrition at the University of Florida, furthering his passion for service through leadership roles in Project Downtown, a non-profit serving the homeless.\n\nAnas's medical career took shape during his time at West Virginia's medical school, where a pivotal mission trip to Syria amidst the civil war inspired his focus on anesthesiology. This experience, coupled with his residency at the University of Florida, solidified his commitment to pain management. Despite personal challenges, including a significant neck surgery, Anas's resilience and family support propelled him forward. Now based in Miami, he serves as a clinic attending for a pain management fellowship, continuing to impact lives through his expertise and dedication."
+    "text": "Anas Abdul Rahim, a dedicated anesthesiologist and pain management specialist, was born in Atlanta, GA, to Syrian immigrants. Raised in Panama City, FL, Anas developed a passion for the ocean and community service early on. His academic journey began with dual enrollment at Gulf Coast State College, where he actively participated in student government and community initiatives. Anas pursued a degree in Food Science and Human Nutrition at the University of Florida, furthering his commitment to service through Project Downtown, a non-profit aiding the homeless.\n\nHis medical career took shape at West Virginia University, where he first encountered snow and realized his preference for warmer climates. A pivotal moment came during a medical mission trip to Syria amidst the civil war, where Anas witnessed the critical role of anesthesiology in emergency care. This experience solidified his career path.\n\nReturning to the University of Florida for his anesthesiology residency, Anas faced personal challenges, including a neck surgery that offered him profound insights into patient care. Now based in Miami, he serves as a clinic attending for a pain management fellowship program, balancing his professional life with family and community involvement."
   },
   "keysBlock": {
     "title": "Core Values & Approach",
@@ -88,18 +92,18 @@
       },
       {
         "name": "Resilience",
-        "description": "Overcoming personal and professional challenges has strengthened Anas's resolve to excel in his field."
+        "description": "Overcoming personal and professional challenges has instilled a strong sense of perseverance and adaptability."
       },
       {
         "name": "Family-Centric",
-        "description": "Family is at the heart of Anas's life, influencing his approach to work-life balance and patient care."
+        "description": "Family is at the heart of Anas's life, influencing his approach to work-life balance and patient relationships."
       },
       {
         "name": "Continuous Learning",
-        "description": "Anas is dedicated to ongoing education and research, staying at the forefront of advancements in anesthesiology."
+        "description": "Anas is dedicated to ongoing education and research, staying at the forefront of advancements in anesthesiology and pain management."
       }
     ],
-    "footer": "Anas Abdul Rahim is also involved in speaking engagements, mentoring young professionals, and contributing to medical publications. Connect with him to learn more."
+    "footer": "Anas Abdul Rahim is also involved in speaking engagements, mentoring young professionals, and contributing to medical publications. Connect with Anas to learn more about his work and insights."
   },
   "footer": "Ready to explore pain management solutions with Anas Abdul Rahim?"
 };
